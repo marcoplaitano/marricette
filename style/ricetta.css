@@ -1,0 +1,10 @@
+.qt {
+  font-family: var(--font-monospace);
+}
+
+.ingr {
+  font-weight: bold;
+}
+.instr {
+  font-weight: bold;
+}

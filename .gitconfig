@@ -1,0 +1,8 @@
+[commit]
+	gpgsign = true
+[user]
+	name = Marco Plaitano
+	email = marcoplaitano23@gmail.com
+	signingkey = /home/marco/.ssh/github-marcoplaitano.pub
+[gpg]
+	format = ssh

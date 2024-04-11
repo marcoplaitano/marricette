@@ -1,0 +1,3 @@
+http://marricette.netlify.app/
+http://marricette.netlify.app/ricette/bevande/cocktail-garibaldi.html
+http://marricette.netlify.app/ricette/dolci/brownies.html
